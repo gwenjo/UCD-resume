@@ -18,10 +18,13 @@
     background-color: #9b59b6;
 }
 
+<<<<<<< HEAD
 .bg-color-contact {
     background-color: #fff;
 }
 
+=======
+>>>>>>> 0299c782f453ee15af7bdcf926209f57116d07f8
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -355,6 +358,7 @@ footer {
 .history-items {
     margin-bottom: 30px;
 }
+<<<<<<< HEAD
 
 /* ----------------------------------------Contact From */
 
@@ -388,3 +392,5 @@ button[type="submit"] {
         max-width: 50%;
     }
 }
+=======
+>>>>>>> 0299c782f453ee15af7bdcf926209f57116d07f8
